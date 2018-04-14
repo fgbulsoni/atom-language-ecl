@@ -1,0 +1,16 @@
+{
+  "name": "language-ecl",
+  "version": "0.0.0",
+  "description": "ECL Language highlighter to work with LexisNexis HPCC's 'ECL' language",
+  "keywords": [
+    "language",
+    "grammar",
+    "ecl",
+    "hpcc"
+  ],
+  "repository": "https://github.com/fgbulsoni/atom-language-ecl",
+  "license": "Apache-2.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
